@@ -1,4 +1,5 @@
 # Traffic-congestion-Detection-and-Management-using-Vehicular-Ad-hoc-Network
+# Ns2, SUMO
 
 Designed and simulated an Intelligent Transportation System enabling Vehicle-Vehicle and Vehicle-Infrastructure communication for effective traffic management. 
 Road-side-Units were designed and placed for maximum network coverage. 
