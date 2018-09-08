@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 03/19/18 13:37:39 by SUMO polyconvert Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="high.net.xml"/>
+        <osm-files value="high.osm"/>
+        <type-file value="osmpolyconvert.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value="high.poly.xml"/>
+    </output>
+
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-553127.87,-2159655.84" convBoundary="0.00,-0.00,12689.88,14651.48" origBoundary="75.506405,19.530929,75.627507,19.663324" projParameter="+proj=utm +zone=43 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <poly id="118986764" type="water" color="181,209,209" fill="1" layer="-4.00" shape="8925.67,3864.68 8836.07,3739.08 8583.86,3774.01 8529.54,3863.31 8655.15,3989.05 8799.07,4025.34 8979.13,4025.96 9033.34,3972.45 8997.45,3936.53 8925.67,3864.68"/>
+    <poi id="3237425236" type="amenity" color="237,199,199" layer="4.00" x="10474.67" y="4709.50"/>
+</additional>
