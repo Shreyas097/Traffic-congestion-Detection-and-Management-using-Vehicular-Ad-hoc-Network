@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2018-03-19 14:18:03.128850 by $Id$
+  options: -n high.net.xml -r high.rou.xml -e 25 -l
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="1" depart="1.00" from="414208225" to="-414208225"/>
+    <trip id="2" depart="2.00" from="246365988#0" to="-414208225"/>
+    <trip id="3" depart="3.00" from="414208225" to="-246365988#0"/>
+    <trip id="4" depart="4.00" from="414208225" to="-414208225"/>
+    <trip id="5" depart="5.00" from="414208225" to="-414208225"/>
+    <trip id="6" depart="6.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="7" depart="7.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="8" depart="8.00" from="-246365988#1" to="-414208225"/>
+    <trip id="9" depart="9.00" from="414208225" to="-414208225"/>
+    <trip id="10" depart="10.00" from="414208225" to="-414208225"/>
+    <trip id="11" depart="11.00" from="246365988#0" to="246365988#1"/>
+    <trip id="12" depart="12.00" from="414208225" to="-414208225"/>
+    <trip id="13" depart="13.00" from="414208225" to="-414208225"/>
+    <trip id="14" depart="14.00" from="414208225" to="246365988#1"/>
+    <trip id="15" depart="15.00" from="414208225" to="-414208225"/>
+    <trip id="16" depart="16.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="17" depart="17.00" from="246365988#0" to="-414208225"/>
+    <trip id="18" depart="18.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="19" depart="19.00" from="414208225" to="-414208225"/>
+    <trip id="20" depart="20.00" from="246365988#0" to="-414208225"/>
+    <trip id="21" depart="21.00" from="246365988#0" to="-246365988#0"/>
+    <trip id="22" depart="22.00" from="414208225" to="-414208225"/>
+    <trip id="23" depart="23.00" from="-246365988#1" to="246365988#1"/>
+    <trip id="24" depart="24.00" from="246365988#0" to="-246365988#0"/>
+</routes>
